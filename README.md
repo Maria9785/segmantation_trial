@@ -1,2 +1,2 @@
-# segmantation_trial
+# Segmantation Trial
 This is a test project on object segmantation
